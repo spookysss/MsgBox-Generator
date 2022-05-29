@@ -52,10 +52,6 @@
  echo 4) Yes, No, and Cancel buttons
  echo 5) Yes and No buttons
  echo 6) Retry and Cancel buttons
- echo 7) Critical Message icon
- echo 8) Warning Query icon
- echo 9) Warning Message icon
- echo 10) Information Message icon
  echo 11) System modal (all applications wont work until the user responds to the message box)
 
  set /p mi=Which one do you want? : 
@@ -65,10 +61,6 @@
  if %mi% equ 4 goto m4
  if %mi% equ 5 goto m5
  if %mi% equ 6 goto m6
- if %mi% equ 7 goto m7
- if %mi% equ 8 goto m8
- if %mi% equ 9 goto m9
- if %mi% equ 10 goto m10
  if %mi% equ 11 goto m14
  ```
  Generator :
@@ -76,7 +68,7 @@
  ```
  :m1/m2/m3/m4/m5...
  echo Here is the script :
- echo spookyssmsgbox=msgbox("%ct%" ,0, "%tl%")
+ echo spookyssmsgbox=msgbox("%ct%" ,0+%, "%tl%")
  echo.
  echo Now just copy this script, if you press any button, it will open a menu for you paste the script in it. When you paste it, just press F6. The file will be saved  in the "files" folder
  echo By the way, if you do this process again, change the saved file (only if you want to create another one)
@@ -93,4 +85,4 @@
  * Create TikTok videos
  * Send it to your friends
 # Download Link
- 
+ https://cdn.discordapp.com/attachments/980127861371449436/980327251679797279/MessageBoxGen.zip
