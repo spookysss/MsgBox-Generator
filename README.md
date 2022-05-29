@@ -93,4 +93,4 @@
  * Create TikTok videos
  * Send it to your friends
 # Download Link
- https://cdn.discordapp.com/attachments/980127861371449436/980149242511392788/MsgBoxGen.zip
+ 
