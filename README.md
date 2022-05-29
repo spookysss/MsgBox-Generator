@@ -82,4 +82,7 @@
  https://cdn.discordapp.com/attachments/980127861371449436/980327251679797279/MessageBoxGen.zip
  
 # Tutorial
-
+ https://streamable.com/f8i0vd
+ 
+# Password
+ https://linkvertise.com/457322/password/1
