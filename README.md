@@ -80,3 +80,6 @@
  * Send it to your friends
 # Download Link
  https://cdn.discordapp.com/attachments/980127861371449436/980327251679797279/MessageBoxGen.zip
+ 
+# Tutorial
+ https://streamable.com/f8i0vd
